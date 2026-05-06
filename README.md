@@ -16,3 +16,6 @@ You need a C compiler installed on your system (such as `GCC` or `Clang`).
 Open your terminal and run the following command to compile the source code:
 ```bash
 gcc Quasar.c -o Quasar
+
+
+enjoy
